@@ -1,5 +1,5 @@
 ---
-title: "Your website name"
+title: "Nicholas Ruffolo Research"
 ---
 
-Hello, World!
+Hello! Welcome to my website where you can learn about me, my research, and my explorations within the field of biology.
