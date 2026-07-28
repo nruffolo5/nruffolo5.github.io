@@ -1,0 +1,9 @@
+name: "YOUR-WEBSITE-NAME"
+output_dir: "NicholasRuffolo.github.io"
+navbar:
+  title: "Your website name"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
